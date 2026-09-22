@@ -1,0 +1,6 @@
+{
+  "name": "Brickerton Squad",
+  "description": "Private clubhouse and member hub for the Brickerton Squad, secured with exclusive password access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
