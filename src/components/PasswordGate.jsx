@@ -162,7 +162,7 @@ export function PasswordGate({ onUnlock, targetPassword, members = [] }) {
                 )}
               </div>
               <div className="absolute -bottom-2 px-2.5 py-0.5 rounded-full bg-slate-800 border border-slate-700 text-[10px] font-bold tracking-widest uppercase text-amber-400 shadow">
-                Est. 2022
+                Est. 2025
               </div>
             </div>
 
